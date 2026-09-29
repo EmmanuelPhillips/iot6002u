@@ -1,6 +1,6 @@
 #set page(numbering: "1")
 #set heading(numbering: none)
-#set text(size: 11pt)
+#set text(size: 11pt, font: "Times New Roman")
 
 Emmanuel Phillips | 230355585 | ec23279\@qmul.ac.uk | emmanuel.j.phillips\@pwc.com
 = Project Idea Options
